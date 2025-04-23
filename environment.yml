@@ -1,0 +1,6 @@
+name: llm-policy-analysis
+channels:
+  - defaults
+dependencies:
+  - python=3.10 # Or your preferred version
+  # Add other core conda dependencies here

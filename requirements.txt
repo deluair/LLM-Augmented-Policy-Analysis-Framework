@@ -1,0 +1,12 @@
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+requests>=2.25.0
+beautifulsoup4>=4.9.0
+pypdf>=3.0.0
+python-docx>=1.0.0
+spacy>=3.0.0
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+# Optional: Add sqlalchemy if using Chroma with a persistent backend like SQLite/Postgres
+# sqlalchemy>=2.0.0 
